@@ -10,7 +10,7 @@
 
  </div>
 
-###  SETUP 
+##  SETUP 
 ```sh
 pip3 install pysocks
 py -m pip install pysocks
@@ -21,13 +21,13 @@ python3 AstraNET.py
 ```
 
 
-# IMPORTANTE!
+## IMPORTANTE!
 ```sh
 Não ataque páginas governamentais (.gov/.gob), páginas educacionais (.edu) ou algo do tipo,
 Não me responsabilizo pelos danos causados ​​pelos ataques.
 Lembre-se: você é o responsável pelos ataques já que essa ferramenta foi criada para fins educacionais
 ```
-# CONTATO:
+## CONTATO:
 ```sh
 Telegram: @astra_py
 Discord: astrax.py
