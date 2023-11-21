@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ASTRA HTTP FLOOD 🚀
+# 🚀 ASTRANET HTTP FLOOD 🚀
 
 
 ##### Ferramenta de HTTP flood, ataques com proxy e socks.
