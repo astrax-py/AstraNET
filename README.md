@@ -19,3 +19,16 @@ git clone https://github.com/astrax-py/AstraNET/
 cd AstraNET
 python3 AstraNET.py
 ```
+
+
+# IMPORTANTE!
+```sh
+Não ataque páginas governamentais (.gov/.gob), páginas educacionais (.edu) ou algo do tipo,
+Não me responsabilizo pelos danos causados ​​pelos ataques.
+Lembre-se: você é o responsável pelos ataques já que essa ferramenta foi criada para fins educacionais
+```
+# CONTATO:
+```sh
+Telegram: @astra_py
+Discord: astrax.py
+```
