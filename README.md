@@ -8,7 +8,7 @@
 ## Screenshot
 ![lk](https://i.ibb.co/ZGQH8qP/Screenshot-2023-11-21-15-12-44.png)
 
-</p>
+ </div>
 
 ###  SETUP 
 ```sh
